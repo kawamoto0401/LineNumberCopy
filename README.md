@@ -19,7 +19,7 @@ command palette
 
 
 Before copying -> Copy and paste from an LineNumberCopy -> Copy and paste from an LineNumberCopySpace -> Copy and paste from an LineNumberCopySpace(TabSize:2) -> Copy and paste from an LineNumberCopySpace(Organize:false)
-![キャプチャ](./media/cap.gif)
+![キャプチャ](https://github.com/kawamoto0401/LineNumberCopy/blob/master/media/cap.gif?raw=true)
 
 ## Features
 
@@ -30,5 +30,5 @@ Before copying -> Copy and paste from an LineNumberCopy -> Copy and paste from a
 
 You can adjust the Tab Size (default: 4) and the Tab Size when there is space (default: true) from the settings screen.
 
-![キャプチャ](./media/cap3_1.png)
+![キャプチャ](https://github.com/kawamoto0401/LineNumberCopy/blob/master/media/cap3_1.png?raw=true)
 

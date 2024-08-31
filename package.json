@@ -1,10 +1,14 @@
 {
 	"name": "linenumbercopy",
 	"displayName": "LineNumberCopy",
-	"description": "",
-	"version": "1.0.2",
+	"description": "Copies selected lines to clipboard with line numbers",
+	"version": "1.0.3",
 	"publisher": "kawamoto",
 	"icon": "media/Package.ico",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kawamoto0401/LineNumberCopy"
+	},
 	"engines": {
 		"vscode": "^1.92.0"
 	},
