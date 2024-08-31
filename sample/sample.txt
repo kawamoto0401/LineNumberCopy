@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+
+test
+	test
+		test
+			test
+test
+ 	test
+  	test
+   	test
+
+
+↓Pasting(TabStop:4 isOrganize:true)
+
+
+↓Pasting(LineNumberCopySpace TabStop:4 isOrganize:true)
+
